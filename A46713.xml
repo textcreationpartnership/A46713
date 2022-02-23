@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd in the Cathedral Church of Norwich, March 8th, 1695/6 being the second Sunday in Lent / by John Jeffery ...</title>
+            <author>Jeffery, John, 1647-1720.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46713</idno>
+            <idno type="STC">Wing J521</idno>
+            <idno type="STC">ESTC R1811</idno>
+            <idno type="EEBO-CITATION">12576397</idno>
+            <idno type="OCLC">ocm 12576397</idno>
+            <idno type="VID">63589</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46713)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63589)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 962:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd in the Cathedral Church of Norwich, March 8th, 1695/6 being the second Sunday in Lent / by John Jeffery ...</title>
+                  <author>Jeffery, John, 1647-1720.</author>
+               </titleStmt>
+               <extent>[4], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Rogers ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63589:1"/>
+            <pb facs="tcp:63589:1"/>
+            <p>A SERMON Preach'd in the <hi>Cathedral Church of</hi> Norwich, MARCH 8<hi rend="sup">th</hi>. 1695/6. BEING The Second Sunday in <hi>Lent.</hi>
+            </p>
+            <p>By <hi>JOHN JEFFERY,</hi> Arch-Deacon of <hi>Norwich,</hi> and Miniſter of St. <hi>Peter</hi> of <hi>Mancroft.</hi>
+            </p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>(Thuc.) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.
+<bibl>
+                  <hi>Origen contra Celſ. L. 8.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Rogers,</hi> at the <hi>Sun</hi> over-againſt St. <hi>Dunſtan</hi>'s Church in <hi>Fleetſtreet,</hi> 1696.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:63589:2"/>
+            <pb facs="tcp:63589:2"/>
+            <head>To the Right Worſhipfull, Auguſtine Briggs <abbr>Eſquire</abbr> Mayor of the City of NORWICH.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I <hi>Cannot expreſs a truer or greater Regard to You, (in compliance with whoſe Deſires this Diſcourſe is made Pub<g ref="char:EOLhyphen"/>lick) than (agreeably to the Subject of it) to</hi> Wiſh <hi>and</hi> Pray, <hi>that You may be ef<g ref="char:EOLhyphen"/>fectually prevailed upon thereby, ſeriouſly to fore-think what Your</hi> Laſt Wiſhes <hi>ſhall be; and to make Your</hi> Preſent Re<g ref="char:EOLhyphen"/>ſolutions <hi>accordingly, viz.</hi> To live the Life of the Righteous, <hi>and then,</hi> You
+<pb facs="tcp:63589:3"/>ſhall Die the Death of the Righte<g ref="char:EOLhyphen"/>ous, and Your laſt End ſhall be like his. <hi>This I do moſt heartily</hi> Wiſh <hi>and</hi> Pray for, <hi>on behalf of</hi> You <hi>and of</hi> all thoſe, <hi>for whoſe Souls I am more eſpeci<g ref="char:EOLhyphen"/>ally concerned, for I am, in the beſt and higheſt Senſe,</hi>
+            </p>
+            <closer>
+               <signed>Your Faithfull Servant, John Jeffery.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:63589:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Numb. XXIII. 10.</hi>
+                  </bibl>
+                  <p>— Let me die the death of the Righte<g ref="char:EOLhyphen"/>ous, and let my laſt end he like his.</p>
+               </q>
+            </epigraph>
+            <p>IN theſe Words we have the very <hi>good Wiſh</hi> of a very <hi>bad Man,</hi> and upon a very remarka<g ref="char:EOLhyphen"/>ble <hi>Occaſion.</hi> The <hi>Man</hi> was <hi>Balaam;</hi>
+               <note place="margin">Numb. 22.23, 24, 25.</note> One of as ill a character almoſt, as any that is men<g ref="char:EOLhyphen"/>tion'd in the Holy Scriptures. The <hi>Wiſh</hi> is, That he might <hi>die the death of the Righteous, and that his laſt end might be like his.</hi> In which <hi>Wiſh</hi> it is implyed, That the <hi>Portion of the Wicked</hi> is not fit to be deſired; but that the <hi>Portion of the Righteous</hi> is ſuch, as even thoſe men who are moſt contrary would deſire.</p>
+            <p>This Wiſh <hi>Balaam</hi> made upon a very remarka<g ref="char:EOLhyphen"/>ble <hi>Occaſion, viz.</hi> When he conſider'd the laſt Re<g ref="char:EOLhyphen"/>ſult and Conſequence of things; when he had a diſtinct Proſpect of the final State of Men. 'Twas <hi>Balaam</hi> that ſaid this; <hi>the man whoſe eyes are open</hi> (or whoſe Eyes once were ſhut, but now are open) <hi>he ſaid this, who heard the words of God,
+<note place="margin">Numb. 24.3, 4.</note> which ſaw the Viſion of the Almighty falling into a Trance, but ha<g ref="char:EOLhyphen"/>ving his eyes open.</hi> God repreſented unto <hi>Balaam</hi>
+               <pb n="2" facs="tcp:63589:4"/>the final State of the <hi>Righteous:</hi> and it appear'd ſo deſireable to him, that (altho' he was one of the worſt of Men, and moſt hated the Righteous, yet) he brake forth into theſe Expreſſions, <hi>Let me die the death of the Righteous, and let my laſt end be like his.</hi>
+            </p>
+            <p>The Truth contain'd in which words, is this,</p>
+            <p>That <hi>there is a Portion which wicked men neceſſari<g ref="char:EOLhyphen"/>ly deſire, but the Righteous only can enjoy.</hi> And,</p>
+            <p>The Deſire of this Portion, by wicked Men, has a <hi>Threefold</hi> Reſpect.</p>
+            <list>
+               <item>1ſt. To what is to <hi>come.</hi>
+               </item>
+               <item>2ly. To what is <hi>paſt.</hi>
+               </item>
+               <item>3ly. To what is <hi>preſent.</hi>
+               </item>
+            </list>
+            <p>With reſpect to what is to <hi>come;</hi> wicked Men ſhall wiſh, That they might eſcape the <hi>Miſery</hi> due unto Sin; and that they might obtain that <hi>Happi<g ref="char:EOLhyphen"/>neſs,</hi> which is the Reward of Obedience. With Reſpect to what <hi>is paſt,</hi> wicked men ſhall wiſh they had choſen the <hi>Duty</hi> they refuſed; and that they had refuſed the <hi>Sin</hi> they choſe. With Reſpect to what <hi>is preſent,</hi> wicked Men ſhall wiſh, That they <hi>were not the Sinners</hi> they are; and that they <hi>were the Righteous,</hi> which they are not.</p>
+            <p n="1">1ſt. Wicked Men ſhall wiſh, with Reſpect to what <hi>is to come.</hi>
+            </p>
+            <p n="1">1. That they might eſcape the <hi>Miſery</hi> due un<g ref="char:EOLhyphen"/>to <hi>Sin:</hi> And,</p>
+            <pb n="3" facs="tcp:63589:4"/>
+            <p n="2">2. That they might obtain that <hi>Happineſs,</hi> which is the Reward of <hi>Obedience.</hi>
+            </p>
+            <p n="1">1. Wicked Men ſhall wiſh they might eſcape the <hi>Miſery</hi> due unto <hi>Sin:</hi> and in that ſence, <hi>Die the Death of the Righteous, and that their laſt End might be like his.</hi>
+            </p>
+            <p>When wicked Men have before them the Ap<g ref="char:EOLhyphen"/>pearance of their <hi>End;</hi> they muſt needs behold ſuch things in it, as are moſt <hi>amazing</hi> and terrible to them. And ſuch an Appearance of the <hi>Laſt things</hi> there will be unto wicked Men, when ever they are conſtrained to conſider.</p>
+            <p>Such <hi>conſtraint</hi> is ſometimes upon them while they are in Health and Safety: as often as God, by over ruling the Vanity of their Minds, makes them <hi>ſerious.</hi> I need not ſhow by what means God does this: 'tis ſufficient to my preſent purpoſe, that this is ſometimes done: and that when it is done, wicked Men have the moſt uncomfortable Proſpect of things before their eyes.</p>
+            <p>And when their natural <hi>Death</hi> and <hi>laſt End</hi> draws near, then the Object is more diſtinctly viewed, and more ſeriouſly conſidered. Then Men per<g ref="char:EOLhyphen"/>ceive what the Deſert, and what the Puniſhment of Sin is: and then they remember they have com<g ref="char:EOLhyphen"/>mitted ſuch Sins.</p>
+            <pb n="4" facs="tcp:63589:5"/>
+            <p>But no Man can be willing to have his Portion in Miſery, or to ſuffer what he is conſcious he has deſerved. Men naturally and neceſſarily hate Tor<g ref="char:EOLhyphen"/>ment and Perdition; and 'tis not any Man's direct choice,
+<note place="margin">Iſa. 33.14.</note> that he be miſerable: No Man can be In<g ref="char:EOLhyphen"/>different to it; or Unconcerned at it. The Sin<g ref="char:EOLhyphen"/>ner's Guilt conſigns them to Miſery: and the onely way to eſcape that Miſery, is by the <hi>Pardon</hi> of their Sins. 'Tis Pardon alone that can deliver them from the approaching Perdition; and therefore, that Par<g ref="char:EOLhyphen"/>don is the matter of their moſt importunate De<g ref="char:EOLhyphen"/>ſires. <hi>Lord have Mercy on us,</hi> is their Petition: and the meaning of it is,
+<note place="margin">Lev. 16.28.</note> that they may <hi>not come into the place of Torment.</hi> This, every departing Soul will moſt ardently Deſire: nor can He avoid de<g ref="char:EOLhyphen"/>ſiring it; with the utmoſt Vehemence, that is poſ<g ref="char:EOLhyphen"/>ſible. Deſires ſtronger than Death, will then har<g ref="char:EOLhyphen"/>raſs the guilty Mind: and thoſe Deſires are there<g ref="char:EOLhyphen"/>fore an extream Vexation, becauſe (at the ſame time) they are Violent, Unavoidable and Vain. The ſame wicked Man, who moſt paſſionately de<g ref="char:EOLhyphen"/>ſires to eſcape Miſery, knows he <hi>cannot:</hi> and the Unnatural deſire of what is utterly impoſſible, is tormenting. But ſuch Deſires there are in every <hi>dying Sinner,</hi> who is not ſo <hi>dead in Sin,</hi> as to be to<g ref="char:EOLhyphen"/>tally without any ſenſe of his Danger.</p>
+            <pb n="5" facs="tcp:63589:5"/>
+            <p>Beyond the Grave, deep as the bottomleſs <hi>Abyſs,</hi> is that Region, where miſerable Souls abide the Wrath of God
+<note n="(a)" place="margin">
+                  <q>
+                     <l>— <hi>Miſerrimus omnes</hi>
+                     </l>
+                     <l>
+                        <hi>Admonet, &amp; magnâ teſtatur voce per umbras.</hi>
+                     </l>
+                     <l>
+                        <hi>Dicite Juſtitiam moniti, &amp; non temnere Divos.</hi>
+                     </l>
+                     <bibl>Virg. Aen. l. 6.</bibl>
+                     <l>
+                        <hi>Incluſi poenam expectant.</hi> —</l>
+                  </q>
+               </note>: and into that, the drooping Thoughts of a dying Sinner do deſcend; and by his dire Imagination, Ranges in that vaſt Ocean of Darkneſs, Deſpair, and Horror
+<note n="(b)" place="margin">
+                  <q>Quae ſcelerum facies? —</q>
+               </note>. The departing Spirit muſt needs Reluctate and Shrink back, with the utmoſt Uneaſineſs of Nature, when it <hi>feels</hi> it ſelf dropping into that remedileſs Con<g ref="char:EOLhyphen"/>dition. The Spirit ſtruggles in Wiſhes contrary to its Doom, and ſuffers the Violence of invincible Neceſſity; and is dragged thereby, againſt all the reluctating Endeavours that are poſſible.</p>
+            <p n="2">2. Wicked Men ſhall wiſh they might Obtain that <hi>Happineſs,</hi> which is the Reward of <hi>Obedience.</hi> The Attainment of that Happineſs and Aſcent un<g ref="char:EOLhyphen"/>to the glorious Regions of the <hi>Bleſſed,</hi> is that, which thoſe Minds that are depreſſed with Guilt and Con<g ref="char:EOLhyphen"/>demnation, ſtrive in Vain to Raiſe themſelves un<g ref="char:EOLhyphen"/>to. Divine Glories dazle the Eyes, and confound the Minds of the <hi>Guilty;</hi> while the ſame Glories Tranſport the Hearts, and Conſtitute the Bleſſed<g ref="char:EOLhyphen"/>neſs of the <hi>Righteous.</hi> But, through all that Con<g ref="char:EOLhyphen"/>fuſion, the Sinner lifts up his Deſires, unto Reſt and Bliſs.</p>
+            <pb n="6" facs="tcp:63589:6"/>
+            <p>The divine <hi>Purity,</hi> and the <hi>Image</hi> of a Holy <hi>God,</hi> which is <hi>upon the Souls and Lives</hi> of thoſe who are Happy, is ſo contrary to the Sinner's Inclination and Temper, that the Sufferings of Hell cannot make a wicked Spirit unfeignedly deſire the Holi<g ref="char:EOLhyphen"/>neſs of Heaven. But there is <hi>another Notion</hi> under which the periſhing Sinner conſiders Heaven, and that is merely as a place of <hi>Reſt and Eaſe. There</hi> is Reſt and Eaſe, which (in general) every one Deſires; and (without advancing one Thought further) wicked Men Wiſh for that <hi>Reſt and Eaſe.</hi> 'Tis manifeſt (if they do think) that the Eaſe and Reſt of Heaven, is inſeparable from, and the Effect of the Similitude, and Enjoyment of <hi>God:</hi> and for a wicked Spirit to Conſider this, is <hi>Torment.</hi> But (ſtopping ſhort of that Reflexion) <hi>Indolency</hi> of Bo<g ref="char:EOLhyphen"/>dy,
+<note place="margin">
+                  <hi>Tull. de fin. l.</hi> 2. <hi>Tuſe. Qu. l.</hi> 3. §. 38.</note> and <hi>Tranquility</hi> of Mind are what an <hi>Epicurean</hi> would deſire for his Happineſs: and (without con<g ref="char:EOLhyphen"/>ſidering from whence that Eaſe and Joy muſt come) Sinners Wiſh this may be their Portion for ever. While it was in their Power, to ſecure the Reſt, and Joy of <hi>Heaven,</hi> they ſought their Pleaſure from <hi>Senſe</hi> and <hi>Sin:</hi> and when the Means and Cauſes of that Pleaſure fail, the Deſires of that Pleaſure con<g ref="char:EOLhyphen"/>tinue, though the Sinner know not how to pro<g ref="char:EOLhyphen"/>cure it.</p>
+            <pb n="7" facs="tcp:63589:6"/>
+            <p>But wicked men are a <hi>Contradiction</hi> to themſelves;
+<note place="margin">—<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>—Plut vit. Craſſ.</note> and their Wickedneſs has made them ſo. They deſire <hi>Reſt</hi> in the midſt of Perturbation; and Joy in the Operation of the Cauſes of Sorrow. But <hi>who can avoid</hi> thoſe Deſires, when he even <hi>feels</hi> that the perfection of Happineſs, or the extremity of Miſery muſt inſtantly befall him? ſuch Diſtreſs and Perplexity does a Man's Wickedneſs bring him unto; becauſe the Conſequences of his Sin, are con<g ref="char:EOLhyphen"/>trary to the ſtrongeſt Inſtinct of his Nature. The wicked Man knows what the <hi>Hope</hi> of the <hi>Righteous</hi> is, in <hi>his Death;</hi>
+               <note place="margin">Prov. 14.32.</note> and what muſt be his own porti<g ref="char:EOLhyphen"/>on at his laſt End. The wicked alſo deſires, on his own behalf, that he might <hi>die the Death,</hi> and that <hi>his laſt End</hi> might <hi>be like</hi> unto that of the <hi>Righ<g ref="char:EOLhyphen"/>teous.</hi>
+            </p>
+            <p>Thus wicked Men deſire they may at laſt, have the Reward of the Righteous without being Righ<g ref="char:EOLhyphen"/>teous. They deſire to eſcape that Miſery which their Sin has made neceſſary, and they deſire to ob<g ref="char:EOLhyphen"/>tain that Happineſs which their Sins have made im<g ref="char:EOLhyphen"/>poſſible. So inconſiſtent are the <hi>Choices</hi> and the <hi>Wiſhes</hi> of bad Men, that while they chuſe <hi>Death,</hi> in chuſing Sin; they deſire to obtain <hi>Life</hi> and <hi>Happi<g ref="char:EOLhyphen"/>neſs,</hi> notwithſtanding that Choice. They would be happy, and yet refuſe that, without which, no Man can be happy: they would not be miſerable,
+<pb n="8" facs="tcp:63589:7"/>and yet make themſelves ſuch as cannot be other<g ref="char:EOLhyphen"/>wiſe.</p>
+            <p>All this is done by ſinfull <hi>Men, i. e.</hi> by thoſe who are endowed with <hi>Reaſon and Foreſight,</hi> and can be aſtoniſhed at infinitely leſs Abſurdities in o<g ref="char:EOLhyphen"/>ther matters. They can decry and wonder at the Folly of thoſe who deſire to be <hi>Rich,</hi> and practiſe what is impoveriſhing; who deſire to be <hi>honoured,</hi> and do what is infamous. What Infatuation then is it for the ſame Men obſtinately to chuſe the ne<g ref="char:EOLhyphen"/>ceſſary cauſes of Miſery, and as obſtinately to wiſh for the Enjoyment of Happineſs? <hi>Remember this, and bring it again to mind, O ye Tranſgreſſors;</hi> conſi<g ref="char:EOLhyphen"/>der and <hi>ſhew your ſelves Men.</hi> Such palpable <hi>Con<g ref="char:EOLhyphen"/>tradiction</hi> there is between the Deſires and the Choi<g ref="char:EOLhyphen"/>ces of Sinners, through the <hi>whole Courſe</hi> of their <hi>Lives:</hi> and the frequent Admonitions of God and Men concerning this, muſt needs prove, at laſt, one of the moſt <hi>afflicting Remembrances,</hi> that is poſ<g ref="char:EOLhyphen"/>ſible. This will <hi>exaſperate</hi> the Torments of <hi>Hell;</hi> to call to mind, That all his days, the Sinner did with equal Paſſionateneſs, chuſe Deſtruction, and wiſh for Salvation. Thus the Deſires which are in <hi>Wicked</hi> Men, of the Portion of the <hi>Righteous,</hi> have a reſpect to <hi>what is to come:</hi> and ſo wicked Men wiſh at laſt, That they might eſcape the <hi>Miſe<g ref="char:EOLhyphen"/>ry</hi> due unto <hi>Sin;</hi> and that they might obtain
+<pb n="9" facs="tcp:63589:7"/>that <hi>Happineſs</hi> which is the Reward of <hi>Obedience.</hi>
+            </p>
+            <p n="2">2ly. The <hi>Deſire of this Portion</hi> by wicked Men, has a Reſpect to <hi>what is paſt,</hi> and ſo wicked Men ſhall wiſh,
+<list>
+                  <item>1. That they had <hi>refuſed</hi> the <hi>Sin</hi> they choſe: And,</item>
+                  <item>2. That they had <hi>choſen</hi> the <hi>Duty</hi> they refuſed.</item>
+               </list>
+            </p>
+            <p n="1">1. Wicked Men ſhall wiſh at laſt, that they had <hi>refuſed</hi> the <hi>Sin</hi> they choſe. At the <hi>time of their Account,</hi> and at all other times, in which wicked Men are <hi>conſiderate,</hi> and have their final State in di<g ref="char:EOLhyphen"/>ſtinct View, they wiſh (with the utmoſt Impati<g ref="char:EOLhyphen"/>ence) that they had <hi>refuſed</hi> the <hi>Sin</hi> they choſe, be<g ref="char:EOLhyphen"/>cauſe, ſo they had <hi>refuſed Death,</hi>
+               <note place="margin">Deut. 30.15, 19.</note> in refuſing Sin (which is the meritorious Cauſe of Death.) <hi>Life</hi> and <hi>Death</hi> were ſet before them in this World, and <hi>then</hi> they made their Choice, which they muſt abide by for ever. They had indeed a <hi>Liberty</hi> while they lived here of <hi>Retractation:</hi> they might have corre<g ref="char:EOLhyphen"/>cted the Choice which was <hi>bad,</hi> by making <hi>one</hi> that was <hi>good.</hi> Thoſe Sinners who had choſen <hi>Sin and Death,</hi> had a Liberty, and were under an Obliga<g ref="char:EOLhyphen"/>tion to <hi>repent,</hi> and to chuſe <hi>Life and live.</hi> But that Liberty did not continue longer than the time of their <hi>Probation:</hi> this Life, and this Liberty ended together. When this time is at an end, that Choice which was made in it, muſt be ſtood to; and there
+<pb n="10" facs="tcp:63589:8"/>is no correcting that Choice <hi>after Death</hi>
+               <note place="margin">* Math. 25.11, 12, 13.</note>: I had almoſt ſaid, <hi>nor at it</hi>
+               <note place="margin">† <hi>Diſtulet in ſeram commiſſa piacula mortem.</hi> Virg. Aen. 1.6.</note>. But altho' a Sinner has ſpent all that time in which he ſhould have <hi>avoided</hi> his fooliſh and pernicious Choices, or at leaſt, ſhould have <hi>corrected</hi> them; yet he cannot avoid at laſt <hi>repenting</hi> that he has choſen ſo ill for himſelf, and wiſhing (without end, and without Patience) that he had <hi>refuſed the Sin</hi> he choſe, becauſe in ſo doing, he had alſo <hi>refuſed</hi> that <hi>Death</hi> he ſuffers. The pe<g ref="char:EOLhyphen"/>riſhing Sinner has not only his Choice of Sin to re<g ref="char:EOLhyphen"/>pent of,
+<note place="margin">Prov. 1.24, <hi>&amp;c.</hi>
+               </note> but alſo his <hi>Obſtinacy</hi> in chuſing it: and that no conſideration could withhold him from making of, and perſiſting in that Choice.</p>
+            <p>Yea (which is a ſpecial <hi>Aggravation</hi> of his Fault and Folly) he did <hi>in this Life,</hi> often <hi>repent</hi> in that Kind, though not in that Degree, in which he ſhall repent at laſt. He who in the Hour of <hi>Death,</hi> and in that <hi>Eternity</hi> which is after it; repents (wiſhing he had never choſen Sin) ſhall then <hi>remember,</hi> that thoſe Wiſhes are <hi>not the firſt</hi> he made of this kind: that he did before this, wiſh he had never done ſuch things, as he periſhes for. The laſt, and the <hi>endleſs Repentings</hi> of a Sinner in <hi>Hell,</hi> will be <hi>aggra<g ref="char:EOLhyphen"/>vated</hi> by his Remembrance, that he often <hi>ſo repent<g ref="char:EOLhyphen"/>ed</hi> upon Earth. He ſhall at the ſame inſtant cry out, <hi>O that I had never done ſuch Sins!</hi> and ſhall then alſo call to mind, that he had ſo expreſſed
+<pb n="11" facs="tcp:63589:8"/>himſelf in his Repentings upon Earth. Had he (while he was on Earth) from the time that he made ſuch Wiſhes (with ſtinging Remorſe)
+<q>That he had never been in ſuch Company, in which he committed his Sin; that he had never ſeen the Face of ſuch an one, by whom he was perſuaded to ſin: that he had rather have loſt any Good or ſuffered any Evil at the time, than been Guilty of ſuch Wickedneſs.</q> Had he (I ſay) then been conſtant to thoſe wiſe and neceſſary Reflections; he had thence forward refuſed Sin. And if he had done ſo, he would have <hi>remembred</hi> thoſe Repentings with <hi>Joy.</hi> But, whereas he was ſo far <hi>convinced</hi> of his Sin, and ſo apprehenſive of the Conſequences of it, while he lived, as to wiſh (ſometimes in great <hi>Agonies</hi> of Mind) that he had <hi>never</hi> done it. And afterward (perhaps <hi>under</hi> the Uneaſineſs of remem<g ref="char:EOLhyphen"/>bring how he repented) <hi>again</hi> choſe the ſame Sin: theſe <hi>Repentings</hi> and theſe <hi>Wiſhes,</hi> he that is wicked, ſhall never be able to <hi>forget</hi> in Eternity; and ne<g ref="char:EOLhyphen"/>ver be able, without Torment, to <hi>remember.</hi>
+               <note place="margin">Prov. 5.11, 12, 13.</note> Cer<g ref="char:EOLhyphen"/>tain 'tis, no Sinner can avoid wiſhing in Hell, that he had <hi>never committed</hi> thoſe Sins which brought him thither. We <hi>know now,</hi> that it muſt <hi>be thus then,</hi>
+               <note place="margin">Rom. 6.21.</note> why ſhould we <hi>now</hi> chuſe that, which we ſhall even wiſh (with the utmoſt Paſſion) we had never re<g ref="char:EOLhyphen"/>fuſed? Conſider this, when any <hi>Temptation</hi> offers
+<pb n="12" facs="tcp:63589:9"/>it ſelf; and <hi>make a ſtand,</hi> till this conſideration be well weighed:
+<q>That if I chuſe this Sin for this Pleaſure or Profit, I ſhall often <hi>before I die,</hi> and at <hi>Death</hi> (if I have my Senſes and Underſtand<g ref="char:EOLhyphen"/>ing;) and in <hi>Eternity,</hi> as long as I have a Being, <hi>wiſh</hi> I had never done it.</q>
+            </p>
+            <p n="2">2. <hi>Wicked</hi> Men ſhall at laſt <hi>wiſh</hi> they had choſen that <hi>Duty</hi> they refuſed: and wiſh they had choſen it whatever had befallen them, or <hi>could</hi> have befallen them for ſo doing. Here, the <hi>Suffering</hi> of Perſecu<g ref="char:EOLhyphen"/>tion, or Reproach from Sinners: the <hi>miſſing</hi> that Benefit which Sin could procure; and the undergo<g ref="char:EOLhyphen"/>ing that Trouble which Duty did imply, or might occaſion, was the <hi>Reaſon</hi> why they did not repent and obey the Commandments of God. Sinners were unwilling to deny their vicious <hi>Inclinations</hi> or their vicious <hi>Company;</hi> were unwilling to be at the Trouble which Repentance and Mortification would bring with them; and therefore they would not chuſe their <hi>Duty,</hi>
+               <note place="margin">Deut. 32.47.</note> though in ſo doing, they had cho<g ref="char:EOLhyphen"/>ſen <hi>Life.</hi> Sinners chuſe, notwithſtanding, at the ſame time, to loſe any good, or to ſuffer any evil, to preſerve their <hi>Natural Lives:</hi> Yea, they did this when they were uncertain, whether ſuch Loſſes and Sufferings would preſerve their Lives or no: when it might ſo happen, that by thoſe very En<g ref="char:EOLhyphen"/>deavours to preſerve Life, they might loſe it. The
+<pb n="13" facs="tcp:63589:9"/>deſires of natural Life, are ſo natural, that any thing ſhall be choſen for the ſake of it.
+<note place="margin">Job 2.4.</note> 
+               <hi>Skin for Skin, yea all that a Man hath, will he give for his Life.</hi> Yea a Sinner would (to ſave his natural Life) do much of that <hi>Duty</hi> which is neceſſary to eternal Life. Let it be manifeſt to him, who is moſt <hi>Intemperate,</hi> that there is <hi>Poiſon</hi> in the Wine, and he will not taſt it. Let it be certain, that a violent ſtroke will cut off his Life that ſeizeth upon what is his Neighbours, and the moſt <hi>covetous</hi> Perſon will not touch it. But no Oath to confirm a Threatning, no Anger to incite an Enemy to the Execution of it, no Sword drawn, and Hand ſtretched forth for that purpoſe, make Death ſo certain, as does the <hi>Wrath of God declared from Heaven againſt all Un<g ref="char:EOLhyphen"/>godlineſs and Unrighteouſneſs of Men.</hi>
+               <note place="margin">Rom. 1.18.</note> This Declara<g ref="char:EOLhyphen"/>tion of God is often and expreſsly repeated in his <hi>Word;</hi> is continually preach'd and proclaim'd by his <hi>Miniſters:</hi> We ſee this in the Holy Scriptures; we hear it with our Ears, and why ſhould not our Hearts be affected with this? And our Lives go<g ref="char:EOLhyphen"/>vern'd by it. A <hi>Man</hi> ſtands over us, with the Wrath of an Enemy, and with the Inſtruments of Death, and ſays, <hi>Do this, or die:</hi> and we do it, nor dare we do otherwiſe. But <hi>God</hi> ſays, (with a Voice more terrible than that of Thunder on Mount <hi>Sinai</hi>)
+<q>I am <hi>Jehovah</hi> thy God; thou ſhalt do ſo or ſo;
+<pb n="14" facs="tcp:63589:10"/>or thou ſhalt not do this or that.</q> And we are inſenſible,
+<note place="margin">Iſa. 51.12.</note> and follow the Imaginations of our own Hearts.</p>
+            <p>But we ſhall not be able to maintain this <hi>Stu<g ref="char:EOLhyphen"/>pidity</hi> for ever: we ſhall not be able to avoid the moſt dreadfull <hi>Reflections</hi> on what we have done, that are poſſible. We ſhall, when our Hearts are convinced by the <hi>Word of God,</hi> or by the <hi>Flames of Hell,</hi> wiſh with the utmoſt Regret and Horror, that we had never ſtood out one moment againſt the Calls and Commands of God: that we had never in one particular refuſed to obey him. All thoſe conſiderations that prevailed with us, in the day of <hi>Temptation;</hi> to omit, (if not to contemn) our neceſſary <hi>Duty,</hi> will be remembred with Abo<g ref="char:EOLhyphen"/>mination. That which we <hi>feared,</hi> or that which we <hi>deſired,</hi> and through thoſe Paſſions, violated our Duty, and neglected our Salvation, ſhall be cal<g ref="char:EOLhyphen"/>led to Mind, with unſpeakable <hi>Remorſe.</hi> The Sinner ſhall wonder at himſelf, and reproach him<g ref="char:EOLhyphen"/>ſelf,
+<note place="margin">2 Cor. 7.11.</note> and be ready to take <hi>Vengeance</hi> upon himſelf, that he was ſo little regardfull of <hi>God,</hi> in <hi>whoſe hands our Breath is, and whoſe are all our ways.</hi>
+            </p>
+            <p>The Sinner,
+<note place="margin">Job 12.11.</note> who ſtands upon the Brink of Eter<g ref="char:EOLhyphen"/>nity, or who is plunged into that vaſt Ocean, ſhall <hi>remember</hi> how very ſmall Portions of his time thoſe were, which he ſpent in the Service of his God, and
+<pb n="15" facs="tcp:63589:10"/>in Care for his Soul: and ſhall <hi>Wiſh in vain,</hi>
+               <note place="margin">Amos 8.5.</note> that time could return; that he had the <hi>Day of Grace</hi> in his Power again, that ſo he might (with thoſe Thoughts that now ſwallow him up) improve the <hi>Opportunities</hi> of performing his <hi>Duty,</hi> and <hi>Working out his Salvation.</hi> But, <hi>Time</hi> cannot be ſet back; nothing will then be poſſible, but direfull Remem<g ref="char:EOLhyphen"/>brances of Time <hi>miſ-ſpent,</hi>
+               <note place="margin">Heb. 3.8, 15. &amp; 4.7.</note> and as direfull Reflecti<g ref="char:EOLhyphen"/>ons upon its being <hi>irrecoverable.</hi> That Work which is <hi>undone</hi> then, muſt be undone <hi>for ever:</hi> And who can call to mind, how unpracticably, and how per<g ref="char:EOLhyphen"/>niciouſly he has lived, to himſelf,
+<note place="margin">Heb. 2.3.</note> 
+               <hi>(neglecting the great Salvation)</hi> without unexpreſſible Horror? This will be the <hi>Caſe</hi> of every Sinner at the laſt, who ſhall then Wiſh he had ever refuſed that <hi>Sin</hi> he choſe; and ever choſen that <hi>Duty</hi> he refuſed.</p>
+            <p>Thus we ſee what the Wiſhes of Sinners are, in the day of their <hi>Extremity,</hi> and <hi>Senſibleneſs,</hi> whether They look forward on <hi>what is to come</hi> (of the <hi>Hap<g ref="char:EOLhyphen"/>pineſs</hi> of the Righteous; or the <hi>Miſery</hi> of the Wicked,)
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Hierocl.</note>) or whether He looks backward upon <hi>what is paſt,</hi> (the <hi>Sin</hi> he has committed, or the <hi>Duty</hi> he has violated.) But <hi>in vain,</hi> and to their Torment, do wicked Men <hi>Wiſh</hi> they might Obtain that <hi>Happineſs,</hi> or Avoid that <hi>Miſery:</hi> That they had Forſaken their <hi>Sin,</hi> or Performed their <hi>Duty.</hi>
+            </p>
+            <pb n="16" facs="tcp:63589:11"/>
+            <p n="3">3ly. The Deſires which wicked Men ſhall have at laſt, of the Portion of the Righteous, has then reſpect to <hi>what is preſent:</hi> for They ſhall then Wiſh,</p>
+            <p n="1">1. That they <hi>were not the Sinners</hi> they are: And,</p>
+            <p n="2">2. That they <hi>were</hi> the <hi>Righteous perſons</hi> they are not.</p>
+            <p n="1">1. They ſhall Wiſh at laſt, that they <hi>were not</hi> the <hi>Sinners</hi> they are. The meaning of this Wiſh is, That they were not under ſuch <hi>Guilt</hi> as they have contracted: and that they were not ſo Vici<g ref="char:EOLhyphen"/>ouſly <hi>inclined</hi> as they are. By their paſt Sins (which they have not Repented of) they are <hi>con<g ref="char:EOLhyphen"/>ſigned</hi> to the Miſery they fear: and by their pre<g ref="char:EOLhyphen"/>vailing ſinfull Diſpoſition, they are uncapable of the Happineſs which the Righteous enjoy.</p>
+            <p>Under that Guilt, and with that Temper, Sin<g ref="char:EOLhyphen"/>ners appear <hi>before God,</hi> who knows what they <hi>are,</hi> and what they <hi>have done.</hi> And the ſame <hi>Appearance</hi> every Sinner, at certain Seaſons, hath unto <hi>Himſelf.</hi> When a Sinner has (as <hi>Balaam,</hi> when he ſpake the words of the Text, had) a diſtinct Proſpect, and affecting Repreſentation of the <hi>laſt things,</hi> then his Conſcience awakens, and ſhows him to himſelf, in all the odious Characters that a Sinner ſhall appear, at the Judgment-Seat of God. He then conſiders <hi>what He is;</hi> and that <hi>God</hi> does, and will account him ſuch an one as he is.</p>
+            <pb n="17" facs="tcp:63589:11"/>
+            <p>But the Sinner who conſiders this, knows that Wickedneſs is <hi>abominable</hi> in the ſight of <hi>God;</hi> and that He (who has committed Wickedneſs, and not Repented of it) is abominable unto God for it.
+<q>How ſhall I (ſays the Sinner, when he becomes ſenſible what it is to be ſuch a Sinner:) How ſhall I appear before God?
+<note place="margin">Pſal. 1.5.</note> How ſhall I <hi>ſtand in Judgment?</hi> And what can ſuch an One as I, ex<g ref="char:EOLhyphen"/>pect from Him,
+<note place="margin">Hab. 1.13. 1 Pet. 4.18.</note> who is a God of <hi>purer eyes than to behold Iniquity?</hi>
+               </q> Where ſhall the <hi>Ungodly</hi> and <hi>Sinner appear?</hi> And ſuch a frighted Conſcience will be apt to ſuggeſt, That 'tis altogether uncertain, whether the Perſon ſhall have <hi>Time</hi> or <hi>Heart,</hi> to Re<g ref="char:EOLhyphen"/>pent: and That (for ought he knows) He muſt, in the ſame Condition that his Soul <hi>now is,</hi> receive his final <hi>Doom.</hi> What <hi>Perplexity</hi> muſt a wicked Man be in, when he has theſe Thoughts abiding vi<g ref="char:EOLhyphen"/>gorouſly upon his Spirit? and what manner of per<g ref="char:EOLhyphen"/>ſon ſhall he then wiſh he were? Sure he will Wiſh he were ſuch an one, as God will <hi>forgive:</hi> That he were <hi>not guilty</hi> of ſuch heinous Sins: That he were freed from that vicious Diſpoſition: That he had the Character and Heart of a <hi>Penitent,</hi> that ſo he might hope for Mercy.</p>
+            <p>But if a Sinner can be thus <hi>Diſtreſſed</hi> by his guilty Conſcience, when he is in Health and Safety, and Confidence of Life; What muſt be his Caſe? What
+<pb n="18" facs="tcp:63589:12"/>the Workings of his Mind, when he is upon a <hi>Bed of Sickneſs,</hi> and <hi>Death?</hi> When he is <hi>Departed</hi> into the other World, and when he ſhall be <hi>Awakened</hi> out of the Sleep of the Grave, by the Voice of the Arch-Angel, and the Trump of God? Then he will Wiſh (with all the Vehemency that is poſſible; and with ſuch Confuſions, as no man can now imagine) that he were <hi>not</hi> the <hi>Sinner</hi> he is. He ſhall wiſh this, and wiſh it <hi>in vain;</hi> for he cannot, by all the Wiſhes that are poſſible, <hi>become other than he is.</hi> Thoſe Wiſhes can make no <hi>alteration</hi> in the State of his Soul; and thoſe Means which were provided in order to the Converſion of a Sinner, now <hi>are not.</hi> The <hi>Time</hi> in which that Change ſhould have been made, is <hi>gone;</hi> is gone <hi>for ever.</hi> The deſpairing Soul of a wicked Man ſhall cry out (in <hi>Agonies</hi> more violent and inſupportable than thoſe of Death)
+<q>O that I were not among the Enemies of God! (this accurſed and forlorn Society to which I be<g ref="char:EOLhyphen"/>long!) O that I could now be <hi>changed into ano<g ref="char:EOLhyphen"/>ther Man;</hi> and that I were as contrary to what I am, as is poſſible.</q> But he that ſhall utter ſuch Wiſhes, ſhall <hi>know,</hi> that he muſt be <hi>judged</hi> accord<g ref="char:EOLhyphen"/>ing to what has been <hi>done</hi> by him <hi>in the Body</hi> in time paſt;
+<note place="margin">2 Cor. 5.10.</note> and that he is now ſuch an one, as his paſt wicked Life has made him to be. What he <hi>now is,</hi> does depend upon what he <hi>has formerly done:</hi> And
+<pb n="19" facs="tcp:63589:12"/>the Character of a wicked Man is, That he is one <hi>who has lived wickedly, and never ſo repented as to live otherwiſe.</hi> This is the Quality of a Sinner: and this is no more to be <hi>put off</hi> by any Wiſhes, that can be made, or any Action that can be done by him, at laſt, than he can make <hi>that not to have been done which was done;</hi> or make <hi>that to have been done, which was not done.</hi> All the Conſternation, and Exclama<g ref="char:EOLhyphen"/>tion that a Man is capable of, can make no <hi>Altera<g ref="char:EOLhyphen"/>tion</hi> in the State of his Accounts which is drawn up according to what is <hi>paſt.</hi> Yet cannot Sinners ſee what the final condition of ſuch will be, without wiſhing (in the moſt paſſionate manner) that they <hi>were not what they are:</hi> that they <hi>were not</hi> the <hi>Sinners</hi> they are.</p>
+            <p n="2">2. Wicked Men ſhall at laſt wiſh, they were thoſe <hi>Righteous Perſons</hi> they are not. When Sin<g ref="char:EOLhyphen"/>ners appear to themſelves <hi>what they are;</hi> and appear unto the <hi>Judge</hi> (who knows them more perfectly than they can know themſelves) they do alſo ſee <hi>o<g ref="char:EOLhyphen"/>thers,</hi>
+               <note place="margin">1 Joh. 3.20.</note> who are contrary to them in their Lives and Characters. They know <hi>who</hi> they are, and what man<g ref="char:EOLhyphen"/>ner of Perſons they are, whom they <hi>ſcorned and ha<g ref="char:EOLhyphen"/>ted,</hi> whom they maligned and perſecuted: and they know what the <hi>Reaſon</hi> was of their Ill-will againſt them, and their Contempt of them. They lived among ſuch as were <hi>Righteous,</hi> ſuch as minded
+<pb n="20" facs="tcp:63589:13"/>the things of a better World, and ſought their Sa<g ref="char:EOLhyphen"/>tisfaction from the Hopes of Heaven, and their <hi>Communion</hi> with God: they employed the greateſt part of their Care and Time, in impreſſing upon their <hi>Souls</hi> and <hi>Lives,</hi> the <hi>Image of God,</hi> that ſo they might be fitted by the <hi>Likeneſs</hi> of God, for the <hi>En<g ref="char:EOLhyphen"/>joyment</hi> of him. They choſe the exerciſe and the Company of thoſe who ſtudied <hi>divine Wiſdom,</hi> and practiſed <hi>divine Vertue.</hi> They kept themſelves <hi>un<g ref="char:EOLhyphen"/>ſpotted of the World;</hi>
+               <note place="margin">Jam. 1.27. 1 Joh. 2.16.1 Pet. 4.4.</note> and would not, for the ſake of carnal Pleaſure, or earthly Riches, or ſecular Honour, adventure upon thoſe <hi>wicked Courſes</hi> that others took. By this the <hi>Righteous</hi> were diſtinguiſh<g ref="char:EOLhyphen"/>ed from the wicked, and became contrary to them. For this they were <hi>hated</hi> by the Wicked, and ſhut out of their Friendſhips and Affections. The cha<g ref="char:EOLhyphen"/>racters of Holineſs that appeared upon their Speech and Converſation, did manifeſt what manner of Perſons they were, and fuch Perſons Sinners had in Abomination.</p>
+            <p>By the ſame <hi>Marks</hi> which formerly Sinners knew and diſtinguiſhed the <hi>Righteous</hi> as the Objects of their Malice, they ſhall at laſt remember them with <hi>Emulation;</hi> wiſhing themſelves were ſuch as theſe (once deſpiſed and perſecuted) righteous Men are. Sinners ſhall wiſh then (at Death and Judgment) that they <hi>themſelves</hi> had been as much rejected and
+<pb n="21" facs="tcp:63589:13"/>injured as the Righteous were, ſo they might at the <hi>great and terrible day of the Lord,</hi> ſtand before the di<g ref="char:EOLhyphen"/>vine Tribunal, with that Advantage which the Righteous do. But as the <hi>Righteous</hi> ſhall then have their Character and Diſtinction according to what <hi>they did in the Body;</hi> So the <hi>Sinner,</hi> who did not thoſe things, but the contrary, cannot (with all his Out<g ref="char:EOLhyphen"/>crys and Importunities) make himſelf ſuch an one as the Righteous are. He cannot put on ſo much of the Similitude of the Righteous, as once was done in <hi>Hypocriſie.</hi> He <hi>is not</hi> a righteous Perſon; and he cannot make a ſhew of ſuch an one: he can<g ref="char:EOLhyphen"/>not then <hi>perſonate</hi> a religious Man. If he ſhould pretend to it (in any term whatſoever) he would be diſcovered: he cannot place himſelf among the Righteous, or expect to paſs for ſuch an one. He cannot mingle with the Saints, or come into the Aſſembly of thoſe,
+<note place="margin">Pſ. 1.5.</note> whoſe Company he ſhunn'd while he was on Earth. Nay he cannot then act the part of a <hi>Diſſembler:</hi> he cannot pretend to that Reverence of God, and love of good Men, which the Hypocrite uſed to do, and which perhaps him<g ref="char:EOLhyphen"/>ſelf has ſometimes done, in the courſe of his paſt Life.</p>
+            <p>Thus ſhall wicked Men wiſh <hi>at laſt and in vain,</hi> that they <hi>were not</hi> what they <hi>are;</hi> and that they <hi>were</hi> what they <hi>are not,</hi> what they <hi>cannot</hi> (for ever) be.</p>
+            <pb n="22" facs="tcp:63589:14"/>
+            <p>We ſee what <hi>that good</hi> is which wicked Men de<g ref="char:EOLhyphen"/>ſire, but the <hi>Righteous</hi> onely can enjoy, <hi>viz.</hi> The Character and the Reward of the Righteous. Re<g ref="char:EOLhyphen"/>ligion is the <hi>Foundation</hi> of Happineſs: and Happi<g ref="char:EOLhyphen"/>neſs is the <hi>Perfection</hi> of Religion. That Religion and that Happineſs wicked Men ſhall deſire at laſt (and when they have a diſtinct View of the laſt things) wiſhing they had <hi>lived</hi> that Religion, and that they might <hi>enjoy</hi> that Happineſs. But the <hi>Righ<g ref="char:EOLhyphen"/>teous</hi> are they alone, who have <hi>lived religiouſly</hi> in this World; and the <hi>Righteous</hi> are they alone, who can <hi>live happily</hi> for ever.
+<note place="margin">Summum bonum:</note> This is that <hi>great Good</hi> which <hi>wicked</hi> Men neceſſarily, and unavoidably de<g ref="char:EOLhyphen"/>ſire, but the <hi>Righteous</hi> only can enjoy.</p>
+            <p>From this Truth we may reprove the <hi>Wicked,</hi> en<g ref="char:EOLhyphen"/>courage the <hi>Righteous,</hi> and admoniſh <hi>all</hi> Men.</p>
+            <p n="1">1. From this Truth we may reprove the <hi>Wicked,</hi> becauſe by this, it is manifeſt their <hi>Wickedneſs</hi> is in<g ref="char:EOLhyphen"/>excuſable, and their <hi>Hopes</hi> are vain. There is a notorious Contradiction between their Lives and their Deſires, while they <hi>wiſh</hi> for the Happineſs of the Righteous, and <hi>chuſe</hi> what renders them unca<g ref="char:EOLhyphen"/>pable of it.
+<note place="margin">Lu. 19.22.</note> They ſhall be <hi>judged out of their own Mouths,</hi> and their own Hearts ſhall condemn them.</p>
+            <p n="2">2. By this Truth the Righteous are approved and <hi>encouraged</hi> in their <hi>Duty,</hi> and their <hi>Expectation,</hi> be<g ref="char:EOLhyphen"/>cauſe they live according to the Conſtitution of
+<pb n="23" facs="tcp:63589:14"/>Things, and the Declaration of God. They live, as the <hi>Conſciences</hi> of the Wicked tell them they ought to live, and as they ſhall <hi>wiſh</hi> at laſt they had lived. The Righteouſneſs of the Righteous is approved by all true Wiſdom, and thoſe who calumniate the re<g ref="char:EOLhyphen"/>ligious, are reproached by their own Hearts for ſo doing.</p>
+            <p n="3">3. This Truth may be of uſe to admoniſh <hi>all</hi> Men, to <hi>live the Life</hi> of the Righteous, and that their <hi>early Beginning</hi> be like his;
+<note place="margin">Eccl. 12.1.</note> and then they ſhall <hi>die the Death</hi> of the Righteous, and their <hi>laſt End</hi> ſhall be like his too.</p>
+            <p>And ſince this will at laſt be the moſt ſerious <hi>wiſh</hi> of all Men; ſince thoſe who hated the Life of the Righteous will wiſh they might <hi>die the Death of the Righteous, and that their laſt End may be like his;</hi> what can be more proper, for the <hi>Concluſion</hi> of this Diſcourſe, than that wiſh of <hi>Moſes; O that they were wiſe, that they underſtood this,
+<note place="margin">
+                     <hi>Promethe<g ref="char:EOLhyphen"/>us Epime<g ref="char:EOLhyphen"/>theus.</hi> Dent. 32.29.</note> that they would conſider their latter End!</hi> If Men were but ſo kind to them<g ref="char:EOLhyphen"/>ſelves, and ſo provident for Eternity, as before the great day of Deciſion comes (<hi>now,</hi> while they are preparing for it) to place themſelves (by a ſuitable exerciſe of <hi>Faith</hi>) in thoſe circumſtances, in which they muſt ſtand at the laſt Day: and then look upon themſelves, as they are at the time of ſuch Re<g ref="char:EOLhyphen"/>preſentation: did a wicked Man, who knows the
+<pb n="24" facs="tcp:63589:15"/>Tranſgreſſions of his Life, and that feels the Remorſe of his Conſoience; did he ſuppoſe himſelf laid upon a <hi>Bed of Sickneſs and Death;</hi> and view his Circum<g ref="char:EOLhyphen"/>ſtances as they will at laſt be, if he dies, ſuch an one as he now is: did he ſuppoſe his Soul ſeparating from the Body, and departing into the ſecret and inviſible Society of the Dead: did he ſuppoſe the laſt Trump ſounding, and himſelf (among the reſt of Mankind) awakened out of the ſleep of Death, by that dread<g ref="char:EOLhyphen"/>full Alarm: did he repreſent to himſelf the great and univerſal Aſſembly ſtanding together upon the face of the trembling Earth; and beholding the Son of God deſcending from Heaven, in the Glo<g ref="char:EOLhyphen"/>ry of his Father, and his Holy Angels: did he ſup<g ref="char:EOLhyphen"/>poſe the Judgment-Seat placed and the Son of God ſet down upon it; the Books opened (that of the Law of God, and Goſpel of Chriſt; that of Mens Lives and Conſciences) and the Dead ready to be judged according to the Things written in thoſe Books: did he conſider the Diſtinction and Sepa<g ref="char:EOLhyphen"/>ration of Good from Bad; the one placed at the Right Hand,
+<note place="margin">Matth. 25.33. <hi>Dextra, quae ditis magni ſub moenia tendit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Hac iter Elyſium nobis, at laeva malorum<g ref="char:punc">▪</g> Exercet poenas, &amp; ad impia Tartara mi<gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </hi> Virg Aen. 1.6.</note> and the other at the Left Hand of the Glorious Judge: did he hearken to the Sentence that will then be paſſed upon each Man according to his Deeds; and view (by Faith) the Execution of that Sen<g ref="char:EOLhyphen"/>tence;
+<pb n="25" facs="tcp:63589:15"/>looking upon the <hi>Wicked</hi> as falling headlong into the Bottomleſs Pit; and looking upon the <hi>Righteous</hi> aſcending their Thrones of Glory. I ſay, did <hi>wicked</hi> Men, often and ſeriouſly repreſent theſe important Truths unto themſelves: did they thus conſider their <hi>latter End,</hi> what Effect would that Conſideration have upon them?</p>
+            <p>Thus to do, would be their <hi>Wiſdom;</hi> for thus it will be with them <hi>at laſt:</hi> and by a due and time<g ref="char:EOLhyphen"/>ly conſidering, they may prevent, the <hi>worſt Things</hi> being their Portion. If Men did conſider, they would ſay (with the greateſt Seriouſneſs) <hi>Let me die the Death of the Righteous, and let my laſt End be like his.</hi> And knowing ſuch a <hi>Wiſh</hi> cannot be verified merely by vehement Deſires and paſſionate Expreſ<g ref="char:EOLhyphen"/>ſions, they might (at one time or other) be <hi>per<g ref="char:EOLhyphen"/>ſwaded</hi> by ſuch Conſiderations, to <hi>live the Life of the Righteous;</hi> and if they did ſo, They ſhould al<g ref="char:EOLhyphen"/>ſo <hi>die the Death of the Righteous, and their laſt End ſhould be like his:</hi> that would be their Everlaſting Portion. They ſhould then,
+<note place="margin">
+                  <hi>Quo fa<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> trahunt Virtus ſe<g ref="char:EOLhyphen"/>cura ſeque<g ref="char:EOLhyphen"/>tur.</hi> Luc. 1.2.</note> not only <hi>make</hi> their Wiſhes, but alſo <hi>have</hi> what they wiſhed: they ſhould (at their great Extremity) be received into the <hi>Joy of their Lord.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
